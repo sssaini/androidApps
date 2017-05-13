@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Interview Sites">
+            <menu>
+                <item
+                    android:id="@+id/geeks_for_geeks"
+                    android:title="GeeksForGeeks"
+                    />
+                <item
+                    android:id="@+id/career_cup"
+                    android:title="CareerCup" />
+                <item
+                    android:id="@+id/hacker_rank"
+                    android:title="Hackerrank" />
+                <item
+                    android:id="@+id/glass_door"
+                    android:title="GlassDoor" />
+                <item
+                    android:id="@+id/leet_code"
+                    android:title="LeetCode" />
+            </menu>
+        </item>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="InterView Blogs">
+            <menu>
+                <item
+                    android:id="@+id/java_revisited_blog"
+                    android:title="JavaReisitedBlog" />
+                <item
+                    android:id="@+id/gyan_lo"
+                    android:title="Gyanlo" />
+            </menu>
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Competative Sites">
+            <menu>
+                <item android:id="@+id/code_chef"
+                    android:title="CodeChef"/>
+            </menu>
+        </item>
+    </group>
+</menu>

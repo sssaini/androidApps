@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="team_name">
+        <item>Delhi Derdevils</item>
+        <item>Kings XI Punjab</item>
+        <item>Kolkata Knight Riders</item>
+        <item>Gujarat Lions</item>
+        <item>Mumbai Indians</item>
+        <item>Rising Pune Supergiants</item>
+        <item>Royal Challengers Bangalore</item>
+        <item>Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="match_1">
+        <item name="team_A">SRH</item>
+        <item name="team_B">RCB</item>
+        <item name="time">05/04/2017 8PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+    <string-array name="match_2">
+        <item name="team_A">RPS</item>
+        <item name="team_B">Mumbai Indians</item>
+        <item name="time">06/5/2017 8PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+
+
+    <string-array name="match_3">
+        <item name="team_A">Gujrat L</item>
+        <item name="team_B">KKR</item>
+        <item name="time">07/04/2017 8PM IST</item>
+        <item name="ground">Rajkot India</item>
+    </string-array>
+    <string-array name="match_4">
+        <item name="team_A">KXIP</item>
+        <item name="team_B">RPS</item>
+        <item name="time">08/04/2017 8PM IST</item>
+        <item name="ground">Indore Indai</item>
+    </string-array>
+    <string-array name="match_5">
+        <item name="team_A">RCB</item>
+        <item name="team_B">DD</item>
+        <item name="time">08/04/2017 8PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_6">
+        <item name="team_A">SRH</item>
+        <item name="team_B">GL</item>
+        <item name="time">09/04/2017 3PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+    <string-array name="match_7">
+        <item name="team_A">MI</item>
+        <item name="team_B">KKR</item>
+        <item name="time">09/04/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_8">
+        <item name="team_A">KXIP</item>
+        <item name="team_B">RCB</item>
+        <item name="time">10/04/2017 8PM IST</item>
+        <item name="ground">Indore India</item>
+    </string-array>
+    <string-array name="match_9">
+        <item name="team_A">RPS</item>
+        <item name="team_B">DD</item>
+        <item name="time">11/04/2017 8PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_10">
+        <item name="team_A">MI</item>
+        <item name="team_B">SRH</item>
+        <item name="time">12/04/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_11">
+        <item name="team_A">KKR</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">13/04/2017 8PM IST</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_12">
+        <item name="team_A">RCB</item>
+        <item name="team_B">MI</item>
+        <item name="time">14/04/2017 3PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_13">
+        <item name="team_A">GL</item>
+        <item name="team_B">RPS</item>
+        <item name="time">14/4/2017 8PM IST</item>
+        <item name="ground">Rajkot India</item>
+    </string-array>
+    <string-array name="match_14">
+        <item name="team_A">KKR </item>
+        <item name="team_B">SRH</item>
+        <item name="time">15/04/2017 4PM IST</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_15">
+        <item name="team_A">DD</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">15/04/2017 8PM IST</item>
+        <item name="ground">Delhi India </item>
+    </string-array>
+    <string-array name="match_16">
+        <item name="team_A">MI</item>
+        <item name="team_B">GL</item>
+        <item name="time">16/04/2017 4PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_17">
+        <item name="team_A">RCb</item>
+        <item name="team_B">RPS</item>
+        <item name="time">16/04/2017 8PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_18">
+        <item name="team_A">DD</item>
+        <item name="team_B">KKR</item>
+        <item name="time">17/04/2017 4PM IST</item>
+        <item name="ground">Delhi India</item>
+    </string-array>
+    <string-array name="match_19">
+        <item name="team_A">SRH</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">17/4/2017 8PM IST</item>
+        <item name="ground">Hyderabad</item>
+    </string-array>
+    <string-array name="match_20">
+        <item name="team_A">GL</item>
+        <item name="team_B">RCB</item>
+        <item name="time"> 18/4/2017 8PM IST</item>
+        <item name="ground">Rajkot India</item>
+    </string-array>
+    <string-array name="match_21">
+        <item name="team_A">SRh</item>
+        <item name="team_B">DD</item>
+        <item name="time">19/04/2017 8PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+    <string-array name="match_22">
+        <item name="team_A">KXIP</item>
+        <item name="team_B">MI</item>
+        <item name="time">20/4/2017 8PM IST</item>
+        <item name="ground">Indore India</item>
+    </string-array>
+    <string-array name="match_23">
+        <item name="team_A">KKR</item>
+        <item name="team_B">GL</item>
+        <item name="time">21/4/2017 8PM IST</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_24">
+        <item name="team_A">RPS</item>
+        <item name="team_B">SRH</item>
+        <item name="time">22/4/2017 4PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_25">
+        <item name="team_A">Mi</item>
+        <item name="team_B">DD</item>
+        <item name="time">22/4/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_26">
+        <item name="team_A">GL </item>
+        <item name="team_B">KXIP</item>
+        <item name="time">23/4/2017 4PM IST</item>
+        <item name="ground">Rajkot India</item>
+    </string-array>
+    <string-array name="match_27">
+        <item name="team_A">KKR</item>
+        <item name="team_B">RCB</item>
+        <item name="time">23/4/2017</item>
+        <item name="ground">kolkata India </item>
+    </string-array>
+    <string-array name="match_28">
+        <item name="team_A">MI</item>
+        <item name="team_B">RPS</item>
+        <item name="time">24/4/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_29">
+        <item name="team_A">RCb</item>
+        <item name="team_B">SRH</item>
+        <item name="time">25/4/2017 8PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_30">
+        <item name="team_A">RPS</item>
+        <item name="team_B">KKR</item>
+        <item name="time">26/04/2017</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_31">
+        <item name="team_A">RCB</item>
+        <item name="team_B">GL</item>
+        <item name="time">27/4/2017 8PM IST</item>
+        <item name="ground">Begaluru India</item>
+    </string-array>
+    <string-array name="match_32">
+        <item name="team_A">KKR</item>
+        <item name="team_B">DD</item>
+        <item name="time">28/4/2017 4PM IST</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_33">
+        <item name="team_A">KXIP</item>
+        <item name="team_B">SRH</item>
+        <item name="time">28/4/2017 8PM IST</item>
+        <item name="ground">Mohali India</item>
+    </string-array>
+    <string-array name="match_34">
+        <item name="team_A">RPS</item>
+        <item name="team_B">RCb</item>
+        <item name="time">29/4/2017 4PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_35">
+        <item name="team_A">GL</item>
+        <item name="team_B">MI</item>
+        <item name="time">29/4/2017 8PM IST</item>
+        <item name="ground">Rajkot India</item>
+    </string-array>
+    <string-array name="match_36">
+        <item name="team_A">KXIP</item>
+        <item name="team_B">DD</item>
+        <item name="time">30/4/2017 4PM IST</item>
+        <item name="ground">Mohali India</item>
+    </string-array>
+    <string-array name="match_37">
+        <item name="team_A">GL</item>
+        <item name="team_B">RPS</item>
+        <item name="time">30/4/2017 8PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_38">
+        <item name="team_A">MI</item>
+        <item name="team_B">RCb</item>
+        <item name="time">1/5/2017 4PM IST</item>
+        <item name="ground"> Mumbai India</item>
+    </string-array>
+    <string-array name="match_39">
+        <item name="team_A">RPS</item>
+        <item name="team_B">Gl</item>
+        <item name="time">1/5/2017 8PM ISt</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_40">
+        <item name="team_A">DD</item>
+        <item name="team_B">SRH</item>
+        <item name="time">2/5/2017 8PM IST</item>
+        <item name="ground">Delhi India</item>
+    </string-array>
+    <string-array name="match_41">
+        <item name="team_A">KKR</item>
+        <item name="team_B">RPS</item>
+        <item name="time">2/5/2017 8PM IST</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_42">
+        <item name="team_A">DD</item>
+        <item name="team_B">GL</item>
+        <item name="time">4/5/2017 8PM IST</item>
+        <item name="ground">Delhi India</item>
+    </string-array>
+    <string-array name="match_43">
+        <item name="team_A">RCB</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">5/5/2017 8PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_44">
+        <item name="team_A">SRH</item>
+        <item name="team_B">RPS</item>
+        <item name="time">6/5/2017 4PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+    <string-array name="match_45">
+        <item name="team_A">DD</item>
+        <item name="team_B">MI</item>
+        <item name="time">6/5/2017 8PM IST</item>
+        <item name="ground">Delhi India</item>
+    </string-array>
+    <string-array name="match_46">
+        <item name="team_A">RCB</item>
+        <item name="team_B">KKR</item>
+        <item name="time">7/5/2017 4PM IST</item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_47">
+        <item name="team_A">KXIp</item>
+        <item name="team_B">GL</item>
+        <item name="time">7/5/2017 8PM IST</item>
+        <item name="ground">Mohali India</item>
+    </string-array>
+    <string-array name="match_48">
+        <item name="team_A">SRH</item>
+        <item name="team_B">MI</item>
+        <item name="time">8/5/2017 8PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+    <string-array name="match_49">
+        <item name="team_A">KXIp</item>
+        <item name="team_B">KKR</item>
+        <item name="time">9/5/2017 8PM IST</item>
+        <item name="ground">Mohali</item>
+    </string-array>
+    <string-array name="match_50">
+        <item name="team_A">GL</item>
+        <item name="team_B">DD</item>
+        <item name="time">10/5/2017  8PM IST</item>
+        <item name="ground">Kanpur India</item>
+    </string-array>
+    <string-array name="match_51">
+        <item name="team_A">MI</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">11/5/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_52">
+        <item name="team_A">DD</item>
+        <item name="team_B">RPS</item>
+        <item name="time">12/5/2017 8PM IST</item>
+        <item name="ground">Delhi India</item>
+    </string-array>
+    <string-array name="match_53">
+        <item name="team_A">GL</item>
+        <item name="team_B">SRH</item>
+        <item name="time">13/5/2017 4PM IST</item>
+        <item name="ground">Kanpur</item>
+    </string-array>
+    <string-array name="match_54">
+        <item name="team_A">KKR</item>
+        <item name="team_B">MI</item>
+        <item name="time">13/5/2017 8PM ISt</item>
+        <item name="ground">Kolkata India</item>
+    </string-array>
+    <string-array name="match_55">
+        <item name="team_A">RPS</item>
+        <item name="team_B">KXIP</item>
+        <item name="time">14/5/2017 8PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_56">
+        <item name="team_A">DD</item>
+        <item name="team_B">RCB</item>
+        <item name="time">14/5/2017 8PM IST</item>
+        <item name="ground">Pune India</item>
+    </string-array>
+    <string-array name="match_57">
+        <item name="team_A">TBC</item>
+        <item name="team_B">TBC</item>
+        <item name="time">16/5/2017 8PM IST</item>
+        <item name="ground">Mumbai India</item>
+    </string-array>
+    <string-array name="match_58">
+        <item name="team_A">TBc</item>
+        <item name="team_B">TBC</item>
+        <item name="time">17/5/2017 8Pm IST</item>
+        <item name="ground">Bengaluru india</item>
+    </string-array>
+    <string-array name="match_59">
+        <item name="team_A">TBC</item>
+        <item name="team_B">TBC</item>
+        <item name="time">19/5/2017 8PM IST </item>
+        <item name="ground">Bengaluru India</item>
+    </string-array>
+    <string-array name="match_60">
+        <item name="team_A">TBC</item>
+        <item name="team_B">TBC</item>
+        <item name="time">21/5/2017 8PM IST</item>
+        <item name="ground">Hyderabad India</item>
+    </string-array>
+
+    <array name="match">
+        <item>@array/match_1</item>
+        <item>@array/match_2</item>
+        <item>@array/match_3</item>
+        <item>@array/match_4</item>
+        <item>@array/match_5</item>
+        <item>@array/match_6</item>
+        <item>@array/match_8</item>
+        <item>@array/match_9</item>
+        <item>@array/match_10</item>
+        <item>@array/match_11</item>
+        <item>@array/match_12</item>
+        <item>@array/match_13</item>
+        <item>@array/match_14</item>
+        <item>@array/match_15</item>
+        <item>@array/match_16</item>
+        <item>@array/match_17</item>
+        <item>@array/match_18</item>
+        <item>@array/match_19</item>
+        <item>@array/match_20</item>
+        <item>@array/match_21</item>
+        <item>@array/match_22</item>
+        <item>@array/match_23</item>
+        <item>@array/match_24</item>
+        <item>@array/match_25</item>
+        <item>@array/match_26</item>
+        <item>@array/match_27</item>
+        <item>@array/match_28</item>
+        <item>@array/match_29</item>
+        <item>@array/match_30</item>
+        <item>@array/match_31</item>
+        <item>@array/match_32</item>
+        <item>@array/match_33</item>
+        <item>@array/match_34</item>
+        <item>@array/match_35</item>
+        <item>@array/match_36</item>
+        <item>@array/match_37</item>
+        <item>@array/match_38</item>
+        <item>@array/match_39</item>
+        <item>@array/match_40</item>
+        <item>@array/match_41</item>
+        <item>@array/match_42</item>
+        <item>@array/match_43</item>
+        <item>@array/match_44</item>
+        <item>@array/match_45</item>
+        <item>@array/match_46</item>
+        <item>@array/match_47</item>
+        <item>@array/match_48</item>
+        <item>@array/match_49</item>
+        <item>@array/match_50</item>
+        <item>@array/match_51</item>
+        <item>@array/match_52</item>
+        <item>@array/match_53</item>
+        <item>@array/match_54</item>
+        <item>@array/match_55</item>
+        <item>@array/match_56</item>
+        <item>@array/match_57</item>
+        <item>@array/match_58</item>
+        <item>@array/match_59</item>
+        <item>@array/match_60</item>
+    </array>
+    <string-array name="player_1">
+        <item name="name">David Warner</item>
+        <item name="role">Captain</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_2">
+        <item name="name">Shikhar Dhawan</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_3">
+        <item name="name">Bhuvneshwar kumar</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_4">
+        <item name="name">MoisesHerriqves</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_5">
+        <item name="name">Naman Ojha</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_6">
+        <item name="name">Ricky Bhui</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_7">
+        <item name="name">Kane williamson</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_8">
+        <item name="name">Sidharth Kaul</item>
+        <item name="role">All rounder</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_9">
+        <item name="name">Bipul Sharma</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_10">
+        <item name="name">Ashish Nehra</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_11">
+        <item name="name">Yuvraj Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_12">
+        <item name="name">Ben Cutting</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_13">
+        <item name="name">Abhimanyu Nithan</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_14">
+        <item name="name">Mustafizar Rahman</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_15">
+        <item name="name">Barinder San</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_16">
+        <item name="name">Deepak Hooda</item>
+        <item name="role">Batsman</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_17">
+        <item name="name">Vijay Shankar</item>
+        <item name="role">Batsman</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_18">
+        <item name="name">Chris Jordan</item>
+        <item name="role">Bowler</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_19">
+        <item name="name">Mohammad n</item>abi
+        <item name="role">Bowler</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_20">
+        <item name="name">Eklavya Dwivedi</item>
+        <item name="role">Batsman</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_21">
+        <item name="name">Rashid Khan</item>
+        <item name="role">Bowler</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_22">
+        <item name="name">Pravin tambe</item>
+        <item name="role">Bowler</item>
+        <item name="team">Sunrisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_23">
+        <item name="name">Ben Laughlin</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRisers Hyderabad</item>
+    </string-array>
+    <string-array name="player_24">
+        <item name="name">Tanmay Agarwal</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_25">
+        <item name="name">Mohmmad Siraj</item>
+        <item name="role">Bowler</item>
+        <item name="team">SunRiser Hyderabad</item>
+    </string-array>
+    <string-array name="player_26">
+        <item name="name">Virat Kohli </item>
+        <item name="role">Captain</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_27">
+        <item name="name">Ab De Villiers</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_28">
+        <item name="name">Chris Gayle</item>
+        <item name="role">batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_29">
+        <item name="name">Yuzvendra Chahal</item>
+        <item name="role">Bowler</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_30">
+        <item name="name">Harshal Patel</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_31">
+        <item name="name">Mandeep Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_32">
+        <item name="name">Adam Milne</item>
+        <item name="role">Bowler</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_33">
+        <item name="name">Sarfaraz Khan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_34">
+        <item name="name">Sreenath Aravind</item>
+        <item name="role">Bowler</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_35">
+        <item name="name">Kedar Jadhav</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_36">
+        <item name="name">Shane Watson</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_37">
+        <item name="name">Stuart Binny</item>
+        <item name="role">All rounder</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_38">
+        <item name="name">Samuel Badree</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_39">
+        <item name="name">Iqbal Abdalla</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_40">
+        <item name="name">Tarvis Head</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_41">
+        <item name="name">Sachin Baby</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_42">
+        <item name="name">Avesh Khan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_43">
+        <item name="name">Tabraiz Shamsi</item>
+        <item name="role">Bowler</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_44">
+        <item name="name">Pawan Negi</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_45">
+        <item name="name">Tymal Mills </item>
+        <item name="role">Bowler</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_46">
+        <item name="name">Praveen Dubey</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_47">
+        <item name="name">Ankit Choudhary</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_48">
+        <item name="name">Billy Stanlake</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+    <string-array name="player_49">
+        <item name="name">Vishu Vinod</item>
+        <item name="role">Batsman</item>
+        <item name="team">Royal Challengers Bangalore</item>
+    </string-array>
+
+
+    <string-array name="player_50">
+        <item name="name">Steven Smith</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_51">
+        <item name="name">Ms Dhoni</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_52">
+        <item name="name">Ajinkya Rahane</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_53">
+        <item name="name">Faf du plessis</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_54">
+        <item name="name">Ashok Dinda</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_55">
+        <item name="name">Ankush Bains</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_56">
+        <item name="name">Rajat Bhatia</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_57">
+        <item name="name">Ankit Sharma</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_58">
+        <item name="name">Ishwar pandey</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_59">
+        <item name="name">Adam Zampa</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_60">
+        <item name="name">Jaskaran Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_61">
+        <item name="name">Baba Aprajith</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_62">
+        <item name="name">Deepak Chahar</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_63">
+        <item name="name">Usman Khawaja</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_64">
+        <item name="name">mayank Agarwal</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_65">
+        <item name="name">Ben Stokes</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_66">
+        <item name="name">Mnoj Tiwary</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_67">
+        <item name="name">Jaydev Unakat</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_68">
+        <item name="name">rahul Chahar</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_69">
+        <item name="name">Daniel Christian</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_70">
+        <item name="name">Lockie Forguson</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_71">
+        <item name="name">Sourabh Kumar</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_72">
+        <item name="name">Milind Tandon</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_73">
+        <item name="name">rahul Tripathi</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_74">
+        <item name="name">Imran Tahir</item>
+        <item name="role">Bowler</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+    <string-array name="player_75">
+        <item name="name">Washington Sundar</item>
+        <item name="role">Batsman</item>
+        <item name="team">Rising Pune Supergiant</item>
+    </string-array>
+
+    <string-array name="player_76">
+        <item name="name">Rohit Sharma</item>
+        <item name="role">Captain</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_77">
+        <item name="name">Kiron Pollard</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_78">
+        <item name="name">Lasith Malinga</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_79">
+        <item name="name">Harbhajan Singh</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_80">
+        <item name="name">Ambati Rayudu</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_81">
+        <item name="name">Jasprit Bumrah</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_82">
+        <item name="name">Shreyas Gopal </item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_83">
+        <item name="name">Lendl Simmons</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_84">
+        <item name="name">Vinnay Kumar</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_85">
+        <item name="name">Parthiv Patel</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_86">
+        <item name="name">Mitchell Mcclenaghan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_87">
+        <item name="name">Nitish Rana</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_88">
+        <item name="name">Sidden Lad</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_89">
+        <item name="name">Jagadeesha Sachith</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_90">
+        <item name="name">Hardik Pandya</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_91">
+        <item name="name">Jos Buttler</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_92">
+        <item name="name">Tim Southee</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_93">
+        <item name="name">Jitesh Sharma</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_94">
+        <item name="name">Kunal pandya</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_95">
+        <item name="name">Deepak Punia</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_96">
+        <item name="name">Saurabh Tiwary</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_97">
+        <item name="name">Nicholos Pooran</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_98">
+        <item name="name">Mitchell Johnson</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_99">
+        <item name="name">Karn Sharma</item>
+        <item name="role">Bowler</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_100">
+        <item name="name">Asela Gurarathe</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_101">
+        <item name="name">Krishnappa Gowtham</item>
+        <item name="role">All rounder</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+    <string-array name="player_102">
+        <item name="name">Kulwant Khejroliya</item>
+        <item name="role">Batsman</item>
+        <item name="team">Mumbai Indians</item>
+    </string-array>
+
+    <string-array name="player_103">
+        <item name="name">Gautam Gambhir</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_104">
+        <item name="name">Sunil Narine</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_105">
+        <item name="name">Andra Russel</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_106">
+        <item name="name">Kuldeep Yadav</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_107">
+        <item name="name">Manish Pandey</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_108">
+        <item name="name">Surya Kumar Yadav</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_109">
+        <item name="name">Piyush Chawla</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_110">
+        <item name="name">Robin Uthappa</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_111">
+        <item name="name">Shakib AL Hasan</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_112">
+        <item name="name">Chris Lynn</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_113">
+        <item name="name">Umesh Yadav</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_114">
+        <item name="name">Yusuf Pathan</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_115">
+        <item name="name">Sheldon jackson</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_116">
+        <item name="name">Ankit Rajpoot</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_117">
+        <item name="name">Trent Boalt</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_118">
+        <item name="name">Nuthan Coulter Nile</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_119">
+        <item name="name">Darren Bravo</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_120">
+        <item name="name">Rishi Dhawan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_121">
+        <item name="name">Chris Woakes</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_122">
+        <item name="name">Rovman Powell</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_123">
+        <item name="name">Ishank Jaggi</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_124">
+        <item name="name">Sayan Ghosh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_125">
+        <item name="name">Ramsingh Sanjay yadav</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_126">
+        <item name="name">Colin de Grandhomme</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+
+    <string-array name="player_127">
+        <item name="name">Glenn Maxwell</item>
+        <item name="role">Captain</item>
+        <item name="team">Kings XI Punjab</item>
+    </string-array>
+    <string-array name="player_128">
+        <item name="name">David Miller</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_129">
+        <item name="name">Manan Vohra</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_130">
+        <item name="name">Axar Patel</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_131">
+        <item name="name">Gurkeert Singh Mann</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_132">
+        <item name="name">Anureet Singh</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_133">
+        <item name="name">Sandeep Sharma</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_134">
+        <item name="name">Shaun marsh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_135">
+        <item name="name">Wriddiman Saha</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_136">
+        <item name="name">Nikhil Naik</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_137">
+        <item name="name">Mohit Sharma</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_138">
+        <item name="name">Marcus Stoinis</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_139">
+        <item name="name">Kc Cariappa</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_140">
+        <item name="name">Aarman Joffer</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_141">
+        <item name="name">Pardeep Sahu</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_142">
+        <item name="name">Swapnil Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_143">
+        <item name="name">Hashim Amla</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_144">
+        <item name="name">varun Aaron</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_145">
+        <item name="name">Eoin morgan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_146">
+        <item name="name">Matt Henry</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_147">
+        <item name="name">Rahul Tewatia</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_148">
+        <item name="name">Martin Guptil</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_149">
+        <item name="name">Darren Sammy</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_150">
+        <item name="name">Rinku Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_151">
+        <item name="name">T Natarajan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+    <string-array name="player_152">
+        <item name="name">Ishant Sharma</item>
+        <item name="role">Bowler</item>
+        <item name="team">Kolkata Knight Riders</item>
+    </string-array>
+
+    <string-array name="player_153">
+        <item name="name">Suresh Raina</item>
+        <item name="role">Captain</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_154">
+        <item name="name">Ravindra Jadeja</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_155">
+        <item name="name">James Faulkner</item>
+        <item name="role">All Rounder</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_156">
+        <item name="name">Brendom Mccullum</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_157">
+        <item name="name">Dwayne Bravo</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_158">
+        <item name="name">Aaron Finch</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_159">
+        <item name="name">Dwayne Smith</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_160">
+        <item name="name">Dinesh Karthik</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_161">
+        <item name="name">Dhawal kulkarni</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_162">
+        <item name="name">Praveen kumar</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_163">
+        <item name="name">Andrew Tye</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_164">
+        <item name="name">Ishan Kishan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_165">
+        <item name="name">Pradeep Sangwan</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_166">
+        <item name="name">Shivil Koushik</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_167">
+        <item name="name">Shadab Bashir Jakati</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_168">
+        <item name="name">Jaydev Shah</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_169">
+        <item name="name">Manpreet Gony</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_170">
+        <item name="name">Nathu Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_171">
+        <item name="name">Jason Roy</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_172">
+        <item name="name">Munaf Patel</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_173">
+        <item name="name">Chirag Suri</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_174">
+        <item name="name">Akshdeep Nath</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_175">
+        <item name="name">Basil Thampi</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_176">
+        <item name="name">Shubham Arawal</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_177">
+        <item name="name">Tejas Barota</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_178">
+        <item name="name">Pratham Singh</item>
+        <item name="role">Bowler</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+    <string-array name="player_179">
+        <item name="name">Shelleg Shurya</item>
+        <item name="role">Batsman</item>
+        <item name="team">Gujrat Lions</item>
+    </string-array>
+
+    <string-array name="player_180">
+        <item name="name">zaheer khan</item>
+        <item name="role">captain</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_181">
+        <item name="name">Angelo Mathews</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_182">
+        <item name="name">Corey Anderson</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_183">
+        <item name="name">Kagiso Rabada</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_184">
+        <item name="name">Pat Cummins</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_185">
+        <item name="name">Ankit Bawne</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_186">
+        <item name="name">Aditya Tare</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_187">
+        <item name="name">Muragan Ashwin</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_188">
+        <item name="name">Navneet Saini</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_189">
+        <item name="name">Shushant Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_190">
+        <item name="name">Muhammed Sami</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_191">
+        <item name="name">Shuphar Nadeem</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_192">
+        <item name="name">Jayant Yadav</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_193">
+        <item name="name">Amit Mishra</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_194">
+        <item name="name">Shreyas Iyer</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_195">
+        <item name="name">Sam Billings</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_196">
+        <item name="name">Sanju Samson</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_197">
+        <item name="name">Chris Morris</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_198">
+        <item name="name">rathwaite</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_199">
+        <item name="name">Karunnair</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_200">
+        <item name="name">Rishabh Pant</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_201">
+        <item name="name">Chama Milind</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_202">
+        <item name="name">Khaled Ahmad</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_203">
+        <item name="name">Pratyushh Singh</item>
+        <item name="role">Batsman</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+    <string-array name="player_204">
+        <item name="name">ben hilfenhaw</item>
+        <item name="role">Bowler</item>
+        <item name="team">Delhi Daredevils</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+    <array name="player">
+        <item>@array/player_1</item>
+        <item>@array/player_2</item>
+        <item>@array/player_3</item>
+        <item>@array/player_4</item>
+        <item>@array/player_5</item>
+        <item>@array/player_6</item>
+        <item>@array/player_7</item>
+        <item>@array/player_8</item>
+        <item>@array/player_9</item>
+        <item>@array/player_10</item>
+        <item>@array/player_11</item>
+        <item>@array/player_12</item>
+        <item>@array/player_13</item>
+        <item>@array/player_14</item>
+        <item>@array/player_15</item>
+        <item>@array/player_16</item>
+        <item>@array/player_17</item>
+        <item>@array/player_18</item>
+        <item>@array/player_19</item>
+        <item>@array/player_20</item>
+        <item>@array/player_21</item>
+        <item>@array/player_22</item>
+        <item>@array/player_23</item>
+        <item>@array/player_24</item>
+        <item>@array/player_25</item>
+        <item>@array/player_26</item>
+        <item>@array/player_27</item>
+        <item>@array/player_28</item>
+        <item>@array/player_29</item>
+        <item>@array/player_30</item>
+        <item>@array/player_31</item>
+        <item>@array/player_32</item>
+        <item>@array/player_33</item>
+        <item>@array/player_34</item>
+        <item>@array/player_35</item>
+        <item>@array/player_36</item>
+        <item>@array/player_37</item>
+        <item>@array/player_38</item>
+        <item>@array/player_39</item>
+        <item>@array/player_40</item>
+        <item>@array/player_41</item>
+        <item>@array/player_42</item>
+        <item>@array/player_43</item>
+        <item>@array/player_44</item>
+        <item>@array/player_45</item>
+        <item>@array/player_46</item>
+        <item>@array/player_47</item>
+        <item>@array/player_48</item>
+        <item>@array/player_49</item>
+        <item>@array/player_50</item>
+        <item>@array/player_51</item>
+        <item>@array/player_52</item>
+        <item>@array/player_53</item>
+        <item>@array/player_54</item>
+        <item>@array/player_55</item>
+        <item>@array/player_56</item>
+        <item>@array/player_57</item>
+        <item>@array/player_58</item>
+        <item>@array/player_59</item>
+        <item>@array/player_60</item>
+        <item>@array/player_61</item>
+        <item>@array/player_62</item>
+        <item>@array/player_63</item>
+        <item>@array/player_64</item>
+        <item>@array/player_65</item>
+        <item>@array/player_66</item>
+        <item>@array/player_67</item>
+        <item>@array/player_68</item>
+        <item>@array/player_69</item>
+        <item>@array/player_70</item>
+        <item>@array/player_71</item>
+        <item>@array/player_72</item>
+        <item>@array/player_73</item>
+        <item>@array/player_74</item>
+        <item>@array/player_75</item>
+        <item>@array/player_76</item>
+        <item>@array/player_77</item>
+        <item>@array/player_78</item>
+        <item>@array/player_79</item>
+        <item>@array/player_80</item>
+        <item>@array/player_81</item>
+        <item>@array/player_82</item>
+        <item>@array/player_83</item>
+        <item>@array/player_84</item>
+        <item>@array/player_85</item>
+        <item>@array/player_86</item>
+        <item>@array/player_87</item>
+        <item>@array/player_88</item>
+        <item>@array/player_89</item>
+        <item>@array/player_90</item>
+        <item>@array/player_91</item>
+        <item>@array/player_92</item>
+        <item>@array/player_93</item>
+        <item>@array/player_94</item>
+        <item>@array/player_95</item>
+        <item>@array/player_96</item>
+        <item>@array/player_97</item>
+        <item>@array/player_98</item>
+        <item>@array/player_99</item>
+        <item>@array/player_100</item>
+        <item>@array/player_101</item>
+        <item>@array/player_102</item>
+        <item>@array/player_103</item>
+        <item>@array/player_104</item>
+        <item>@array/player_105</item>
+        <item>@array/player_106</item>
+        <item>@array/player_107</item>
+        <item>@array/player_108</item>
+        <item>@array/player_109</item>
+        <item>@array/player_110</item>
+        <item>@array/player_111</item>
+        <item>@array/player_112</item>
+        <item>@array/player_113</item>
+        <item>@array/player_114</item>
+        <item>@array/player_115</item>
+        <item>@array/player_116</item>
+        <item>@array/player_117</item>
+        <item>@array/player_118</item>
+        <item>@array/player_119</item>
+        <item>@array/player_120</item>
+        <item>@array/player_121</item>
+        <item>@array/player_122</item>
+        <item>@array/player_123</item>
+        <item>@array/player_124</item>
+        <item>@array/player_125</item>
+        <item>@array/player_126</item>
+        <item>@array/player_127</item>
+        <item>@array/player_128</item>
+        <item>@array/player_129</item>
+        <item>@array/player_130</item>
+        <item>@array/player_131</item>
+        <item>@array/player_132</item>
+        <item>@array/player_133</item>
+        <item>@array/player_134</item>
+        <item>@array/player_135</item>
+        <item>@array/player_136</item>
+        <item>@array/player_137</item>
+        <item>@array/player_138</item>
+        <item>@array/player_139</item>
+        <item>@array/player_140</item>
+        <item>@array/player_141</item>
+        <item>@array/player_142</item>
+        <item>@array/player_143</item>
+        <item>@array/player_144</item>
+        <item>@array/player_145</item>
+        <item>@array/player_146</item>
+        <item>@array/player_147</item>
+        <item>@array/player_148</item>
+        <item>@array/player_149</item>
+        <item>@array/player_150</item>
+        <item>@array/player_151</item>
+        <item>@array/player_152</item>
+        <item>@array/player_153</item>
+        <item>@array/player_154</item>
+        <item>@array/player_155</item>
+        <item>@array/player_156</item>
+        <item>@array/player_157</item>
+        <item>@array/player_158</item>
+        <item>@array/player_159</item>
+        <item>@array/player_160</item>
+        <item>@array/player_161</item>
+        <item>@array/player_162</item>
+        <item>@array/player_163</item>
+        <item>@array/player_164</item>
+        <item>@array/player_165</item>
+        <item>@array/player_166</item>
+        <item>@array/player_167</item>
+        <item>@array/player_168</item>
+        <item>@array/player_169</item>
+        <item>@array/player_170</item>
+        <item>@array/player_171</item>
+        <item>@array/player_172</item>
+        <item>@array/player_173</item>
+        <item>@array/player_174</item>
+        <item>@array/player_175</item>
+        <item>@array/player_176</item>
+        <item>@array/player_177</item>
+        <item>@array/player_178</item>
+        <item>@array/player_179</item>
+        <item>@array/player_180</item>
+        <item>@array/player_181</item>
+        <item>@array/player_182</item>
+        <item>@array/player_183</item>
+        <item>@array/player_184</item>
+        <item>@array/player_185</item>
+        <item>@array/player_186</item>
+        <item>@array/player_187</item>
+        <item>@array/player_188</item>
+        <item>@array/player_189</item>
+        <item>@array/player_190</item>
+        <item>@array/player_191</item>
+        <item>@array/player_192</item>
+        <item>@array/player_193</item>
+        <item>@array/player_194</item>
+        <item>@array/player_195</item>
+        <item>@array/player_196</item>
+        <item>@array/player_197</item>
+        <item>@array/player_198</item>
+        <item>@array/player_199</item>
+        <item>@array/player_200</item>
+        <item>@array/player_201</item>
+        <item>@array/player_202</item>
+        <item>@array/player_203</item>
+        <item>@array/player_204</item>
+    </array>
+
+
+
+</resources>
